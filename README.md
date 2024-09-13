@@ -20,7 +20,7 @@
 
 ## Layout esperado para desktop:
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/RobertCastro86">
     <img height="180em" src="design/card-desktop.JPG"/>
 </div>
@@ -29,7 +29,7 @@
 
 ## Layout esperado para mobile:
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/RobertCastro86">
     <img height="180em" src="design/card-mobile.JPG"/>
 </div>
