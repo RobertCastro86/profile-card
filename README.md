@@ -1,4 +1,4 @@
-### Exercício HTML + CSS Avançado - Profile Card
+### <h1>Exercício HTML + CSS Avançado - Profile Card</h1>
 
  ## Font family para ser usada no projeto:
 
@@ -12,5 +12,16 @@
 
 ## Layout esperado para desktop:
 
+<div align="center">
+  <a href="https://github.com/RobertCastro86">
+    <img height="180em" src="https://github.com/user-attachments/assets/cc5b09c4-2c86-4a98-b641-6b11c72626eb"/>
+</div>
+
+
 
 ## Layout esperado para mobile:
+
+<div align="center">
+  <a href="https://github.com/RobertCastro86">
+    <img height="180em" src="https://github.com/user-attachments/assets/cc5b09c4-2c86-4a98-b641-6b11c72626eb"/>
+</div>
