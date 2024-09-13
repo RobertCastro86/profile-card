@@ -9,3 +9,8 @@
 
 --background-color: hsl(185, 75%, 39%);
 --text-color: hsl(227, 10%, 46%);
+
+## Layout esperado para desktop:
+
+
+## Layout esperado para mobile:
